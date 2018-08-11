@@ -2,6 +2,6 @@
 
 <html>
   
-<iframe src="https://cgettings.github.io/slideshow_test/test.html"  height=100% width=100%></iframe>
+<iframe src="https://cgettings.github.io/slideshow_test/test.html"  height="500" width="500"></iframe>
 
 </html> 
