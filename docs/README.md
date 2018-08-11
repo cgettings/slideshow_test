@@ -1,5 +1,8 @@
 # Slideshow test
 
 An `<iframe>` pointing here: https://cgettings.github.io/slideshow_test/test.html
-  
-<iframe src="https://cgettings.github.io/slideshow_test/test.html"  height="500" width="1000" style="border:none;"></iframe>
+
+<div class="iframe_container">
+  <iframe src="https://cgettings.github.io/slideshow_test/test.html" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
+</div>
+
